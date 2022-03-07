@@ -1,4 +1,3 @@
-#helllo aman
 import pickle
 import os
 print('\t\tWELCOME TO THE HOTEL BOOKING SYSTEM')
@@ -488,3 +487,5 @@ while True:
                 pickle.dump(pas_sgn,av01,pickle.HIGHEST_PROTOCOL)
                 print('\nSIGNED IN SUCCESSFULLY')
                 av01.close()
+
+#------------------CODE ENDS----------------------
