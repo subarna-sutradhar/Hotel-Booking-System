@@ -11,13 +11,13 @@ is converted back into an object hierarchy.
 
 # Python Pickle Dump
 
-pickle.dump() function takes 3 arguments. The first argument is the object that you want to store. The second argument is the file object you get by opening the desired file in write-binary (wb) mode. And the third argument is the key-value argument. This argument defines the protocol.
+`pickle.dump()` function takes 3 arguments. The first argument is the object that you want to store. The second argument is the file object you get by opening the desired file in write-binary `wb` mode. And the third argument is the key-value argument. This argument defines the protocol.
 
 # OS
 
 OS module in Python provides functions for creating and removing a directory (folder), fetching its contents, changing and identifying the current directory, etc.
 
-You first need to import the os module to interact with the underlying operating system. So, import it using the import os statement before using its functions.
+You first need to import the `os` module to interact with the underlying operating system. So, import it using the `import os` statement before using its functions.
 
 # def pcls():
 
