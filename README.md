@@ -26,3 +26,21 @@ This function is used to print all the places that are in option
 # def rooms():
 
 This function gives the user the choice to pick rooms as per the conditions given and calculates the amount that is needed to be paid and saves it in a `.dat` file
+
+# Steps to Follow
+
+1. Import the necessary libraries like os and pickle for file operations
+
+2. Create necessary variables
+
+3. Define a function displaying all the available places to choose from 
+
+4. Define a function for choosing the room types available and calculate the amount from the no of days the user wants to stay
+
+5. Create a login signin system . Owner can view the payments and the customer can book hotels
+
+6. Create a function which gives the user to choose the type of hotel and calculate the respective amount and save it in a file particularly made for the user
+
+7. The code creates respective files for the places available and also creates a file dedicated to the user and the owner for further future use of the program
+
+8. It is suggested to place the code in a file and then run
